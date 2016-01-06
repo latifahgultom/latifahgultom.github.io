@@ -1,0 +1,21 @@
+.button
+{
+	background:#F0F;
+	color:#009;
+	padding:4px 8px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-radius:10PX;
+	cursor:pointer;
+	border:double #F00 5px;
+
+}
+.button:hover
+{
+	background:#0FF;
+}
+.input
+{	
+	padding:5px
+	border:solid 1px;#009; 
+}
